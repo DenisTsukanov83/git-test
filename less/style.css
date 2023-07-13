@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+p {
+    font-family: 'Kablammo', cursive;
+    font-size: 30pt;
+}
+
+.icon {
+    font-size: 100pt;
+    background-color: rgb(232, 211, 117);
+    padding: 50px;
+    border-radius: 50%;
+}
