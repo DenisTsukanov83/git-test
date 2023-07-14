@@ -1,0 +1,28 @@
+1. All Autocomplite
+2. Auto Close Tag
+3. Auto Complite Tag
+4. Auto Rename Tag
+5. Code Runner
+6. CodeSnap
+7. Color Highlight
+8. CSS Navigation
+9. Easy LESS
+10. ESLint
+11. GitLens-Git Supercharged
+12. Image preview
+13. Import Cost
+14. indent-rainbow
+15. JavaScript(ES6) code snippets
+16. Live Sass Compiller
+17. Live Server
+18. Markdown Preview Enhanced
+19. Multiple clipboards for VSCode
+20. PHP Debug
+21. Project Maneger
+22. react-snippets
+23. Reactjs code snippets
+24. Russian Language Pack for Visual Studio Code
+25. Sass (.sass only)
+26. SCSS IntelliSense
+27. Theme-Oceanic Next
+28. vscode-icons
